@@ -26,6 +26,7 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "gh": "^2.8.9",
+    "gh-pages": "^6.1.1",
     "pages": "^0.0.16",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
